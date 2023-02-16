@@ -1,0 +1,31 @@
+[Thread 1] Row 0: Valid
+[Thread 1] Row 1: Valid
+[Thread 1] Row 2: Valid
+[Thread 1] Row 3: Valid
+[Thread 1] Row 4: Valid
+[Thread 1] Row 5: Valid
+[Thread 1] Row 6: Valid
+[Thread 1] Row 7: Valid
+[Thread 1] Row 8: Valid
+[Thread 2] Column 0: Valid
+[Thread 2] Column 1: Valid
+[Thread 2] Column 2: Valid
+[Thread 2] Column 3: Valid
+[Thread 2] Column 4: Valid
+[Thread 2] Column 5: Valid
+[Thread 2] Column 6: Valid
+[Thread 2] Column 7: Valid
+[Thread 2] Column 8: Valid
+[Thread 3] Subgrid R123C123: Valid
+[Thread 3] Subgrid R123C456: Valid
+[Thread 3] Subgrid R123C789: Valid
+[Thread 3] Subgrid R456C123: Valid
+[Thread 3] Subgrid R456C456: Valid
+[Thread 3] Subgrid R456C789: Valid
+[Thread 3] Subgrid R789C123: Valid
+[Thread 3] Subgrid R789C456: Valid
+[Thread 3] Subgrid R789C789: Valid
+Valid Rows: 9
+Valid Columns: 9
+Valid Grids: 9
+This Sudoku solution is: Valid
